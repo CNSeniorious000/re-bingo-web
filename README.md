@@ -1,0 +1,1 @@
+# Re:Bingo WEB frontend

@@ -6,7 +6,7 @@ export default defineConfig({
   plugins: [
     HeroPatterns({
       colors: { default: "#808080" },
-      opacity: { default: 0.15 },
+      opacity: { default: 0.05 },
       patterns: ["lines-in-motion"],
     }),
   ],
